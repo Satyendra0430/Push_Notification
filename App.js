@@ -7,7 +7,7 @@ import ExploreCatogriesScreen from './src/screens/ExploreCatogriesScreen';
 import TestingScreen from './src/screens/TestingScreen';
 import SplashScreen from './src/screens/SplashScreen';
 import SimpleImagePicker from './src/screens/SimpleImagePicker';
-
+//add
 const Stack = createStackNavigator();
 
 export default class App extends React.Component {
